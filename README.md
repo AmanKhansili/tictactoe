@@ -1,4 +1,3 @@
-```markdown
 # Tic Tac Toe Game
 
 A simple Tic Tac Toe game built with React for two players to enjoy on the same computer. Challenge your friend in this classic game!
@@ -22,7 +21,6 @@ A simple Tic Tac Toe game built with React for two players to enjoy on the same 
 
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
-   ```
 
 2. Navigate to the project directory:
 
